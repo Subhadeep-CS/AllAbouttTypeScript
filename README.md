@@ -12,23 +12,23 @@ Welcome to AllAboutTypeScript, your ultimate resource for learning and mastering
 6. [License](#license)
 
 ## Introduction to TypeScript
+
 TypeScript is a superset of JavaScript that adds static types to the language. It enhances developer productivity by enabling rich tooling experiences, catching type-related bugs early in the development process, and allowing for easier maintenance of large codebases.
 
 ## Getting Started
 
 To start exploring TypeScript, make sure you have TypeScript installed:
 
-## bash
-
-# npm install -g typescript
+```bash
+ npm install -g typescript
+```
 
 ## Clone this repository to get all the examples and projects:
 
-## bash
-
-# git clone https://github.com/your-username/AllAboutTypeScript.git
-# cd AllAboutTypeScript
-
+```bash
+git clone https://github.com/your-username/AllAboutTypeScript.git
+cd AllAboutTypeScript
+```
 ## Core Concepts
 
 1. Basic Types: Learn about TypeScript's primitive data types like number, string, boolean, etc.
@@ -39,7 +39,7 @@ To start exploring TypeScript, make sure you have TypeScript installed:
 
 ## Advanced Topics
 
-1.Decorators: Explore how decorators can be used for metadata reflection and more.
+1. Decorators: Explore how decorators can be used for metadata reflection and more.
 2. Async/Await: Understand asynchronous programming using async functions and await expressions.
 3. TypeScript Compiler: Dive into the TypeScript compiler (tsc) and its configuration options.
 4. Module Resolution: Learn how TypeScript resolves module imports.
