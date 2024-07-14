@@ -1,0 +1,36 @@
+Q1. What is TypeScript?
+
+=> TypeScript is a superset of Javascript. Typescript has all the features which    Javascriptprovide plus it has some extra features like interface,accessmodifier etc which is currently not available in the latest version of javascript.
+
+=> And Typescript makes writing Javascript easier and more powerful with additional features which it provides.However we have one huge disadvantage with Typescript.
+
+=> Typescript code cannot be executed directly by javascript runtime like browser or node.js.
+
+Q.2 Then, How can I we execute Typescript code and Why should we use Typescript.
+
+=> Typescript has additional features which does not exixts in current version of Javascript. It makes writing javascript code much easier and faster and less error prone.
+
+Q.3 How can we execute TypeScript code?
+
+=> TypeScript is not just a programming langugae. It is also a very  powerful compiler which can run and compile Typescript code into Javascript. When we run a Typescript code, it gets compiled to Javascript code, which can be executed javascript runtime like browser or nodejs enviroment.
+
+Q.4 How can TypeScript use new features, which is not available in Javascript and at the end it gives us regular JavaScript code?
+
+The TypeScript compiler compiles the features of TypeScript to JavaScript using wrok arounds in JavaScript.
+
+For example, We can write some code in typescript using new features in a nice and simple way but when it gets compiled to javascript there that same nice and simple code will have complex javascript logic and sysntax to achieve the same thing so there's no magic  here of course typescript cannot iutput some javascript code with features javascript does not supports.
+
+While converting typescript code to Javascript the new features will be converted ti javascript code using existing  features of javascript but in typescript that code will be easyto write with new features but same code in JavaScript will be little bit complex and we will use existing features of javascript.
+
+Q.5 Advantage of Typescript:-
+
+1. We can explicitly specify the data type for a variable which allow to catch any error and avoid bugs while writing code.
+
+2. TypeScript provides new features like interface,access-modifier, which is not available in current version of JavaScript.
+
+3. TypeScript is also has meta features like decorators.
+
+4. TypeScript is also highly configurable. So, you can fine tune the TypeScript compiler to your requirement to make sure that it beaves in the way you want to behave.
+
+
+** One Small Disadvantage  is that, it has one extra step of compiling the Typescript code  to javascript,before it get's executed JavaScript runtime. **
